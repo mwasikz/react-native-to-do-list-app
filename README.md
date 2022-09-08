@@ -1,4 +1,4 @@
-# To Do List App -React Native
+## :orance_circle: React Native To Do List App
 
 A simple minimalist to do list for Android and IOS. 
 
